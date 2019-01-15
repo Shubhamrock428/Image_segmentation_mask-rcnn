@@ -8,3 +8,6 @@
 
 # original image 2
 #![arial7](https://user-images.githubusercontent.com/40133779/51178155-c39eff80-18e7-11e9-865a-e4c3d9f04ed0.jpg)
+
+# segmented image 2
+#![arial8](https://user-images.githubusercontent.com/40133779/51178321-33ad8580-18e8-11e9-889c-73469821fdfe.png)
